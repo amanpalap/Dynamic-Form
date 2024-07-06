@@ -1,5 +1,3 @@
-Here's the revised `README.md` without the Contribution and License sections:
-
 ---
 
 # Dynamic Form - Responsive
